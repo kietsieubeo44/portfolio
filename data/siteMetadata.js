@@ -83,7 +83,11 @@ const siteMetadata = {
       // This corresponds to the `data-lang="en"` in giscus's configurations
       lang: 'en',
     },
+    // utterancesConfig: {
+    //   // Visit the link below, and follow the steps in the 'configuration' section
+    //   // https://utteranc.es/
   },
+
   search: {
     provider: 'kbar', // kbar or algolia
     kbarConfig: {
